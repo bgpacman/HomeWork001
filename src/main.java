@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class main {
 	/*
 	 * Напишете вашата първа програма на Java, която да извежда на екрана
 	 * следния текст: Hello World! This is my first program!
